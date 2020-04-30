@@ -1,1 +1,1 @@
-http://46.10.105.64:8080/lionm/
+http://localhost:8080/lionm/
