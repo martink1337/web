@@ -2,3 +2,4 @@ nightcore.cf
 trashlord.cf
 192.168.1.14
 miraclelegendz.online
+155.254.60.20
