@@ -1,1 +1,1 @@
-http://46.36346363.123.918:8080/lionm/
+http://inputipaddresshere:8080/lionm/
